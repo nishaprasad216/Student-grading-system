@@ -12,7 +12,3 @@ A C++ program to store student data, calculate grades, and display a report.
   - **F**: Below 40  
 - Display all students in a neat table format  
 
-## How to Run
-```bash
-g++ main.cpp -o grades
-./grades
